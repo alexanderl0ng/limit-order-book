@@ -15,6 +15,6 @@ struct Limit {
     Limit *right_child;
     Order *head_order;
     Order *tail_order;
-}
+};
 
 } // namespace lob

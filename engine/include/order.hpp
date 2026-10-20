@@ -1,10 +1,11 @@
 // engine/include/order.hpp
 #pragma once
 
-#include "limit.hpp"
 #include "types.hpp"
 
 namespace lob {
+
+struct Limit;
 
 enum class Side : u8 { Buy, Sell };
 

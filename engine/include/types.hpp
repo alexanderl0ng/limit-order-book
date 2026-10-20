@@ -12,7 +12,7 @@ using u64   = std::uint64_t;
 using i8    = std::int8_t;
 using i16   = std::int16_t;
 using i32   = std::int32_t;
-using i32   = std::int64_t;
+using i62   = std::int64_t;
 
 } // namespace lob
 

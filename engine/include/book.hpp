@@ -12,6 +12,6 @@ struct Book {
     Limit *sell_tree;
     Limit *lowest_sell;
     Limit *highest_buy;
-}
+};
 
 } // namespace lob
